@@ -1,6 +1,6 @@
 # Four Houses Theme
 
-![Four Houses icon](https://github.com/AmyJapanese/Four-Houses-theme/blob/main/assets/icon.png?raw=true)
+> *Enjoy Magical Coding!* ✨
 
 **Bring the magic of Hogwarts into your code editor.**  
 A VSCode theme inspired by the four houses of Hogwarts, balancing readability with a touch of wizardry.  
@@ -37,4 +37,4 @@ A VSCode theme inspired by the four houses of Hogwarts, balancing readability wi
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE)
+This project is licensed under the [MIT License](.\LICENSE)
