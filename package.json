@@ -1,0 +1,20 @@
+{
+  "name": "four-houses-theme",
+  "displayName": "Four Houses Theme",
+  "description": "A dark theme inspired by the four houses of Hogwarts.",
+  "version": "0.0.1",
+  "publisher": "AmyJapanese",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Four Houses Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/four-houses-color-theme.json"
+      }
+    ]
+  }
+}
