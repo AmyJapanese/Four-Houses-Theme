@@ -2,7 +2,7 @@
   "name": "four-houses-theme",
   "displayName": "Four Houses Theme",
   "description": "A dark theme inspired by the four houses of Hogwarts.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "AmyJapanese",
   "engines": {
     "vscode": "^1.60.0"
