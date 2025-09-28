@@ -25,8 +25,8 @@
     "activityBar.foreground": "#E6EEF6",
     "activityBarBadge.background": "#D9482A",  // 赤アクセント（グリフィンドールとか）
     "sideBar.foreground": "#E6EEF6",
-    "editor.lineHighlightBackground":"#00346e",
-    "editor.lineHighlightBorder": "#00346e",
+    "editor.lineHighlightBackground":"#002958",
+    "editor.lineHighlightBorder": "#002958",
 
 "titleBar.activeBackground": "#041825",
 "titleBar.activeForeground": "#E6EEF6",
