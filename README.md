@@ -1,5 +1,7 @@
 # Four Houses Theme
 
+![Four Houses icon](https://github.com/AmyJapanese/Four-Houses-theme/blob/main/assets/icon.png?raw=true)
+
 **Bring the magic of Hogwarts into your code editor.**  
 A VSCode theme inspired by the four houses of Hogwarts, balancing readability with a touch of wizardry.  
 
@@ -14,6 +16,7 @@ A VSCode theme inspired by the four houses of Hogwarts, balancing readability wi
 ---
 
 ## ✨ Features
+
 - Dark and elegant color palette for long coding sessions  
 - Syntax highlighting inspired by the four houses of Hogwarts  
 - Unified design across editor, menus, and command palette  
@@ -22,6 +25,7 @@ A VSCode theme inspired by the four houses of Hogwarts, balancing readability wi
 ---
 
 ## 🎨 Syntax Philosophy
+
 - **Red (Gryffindor):** Bold `class` declarations → courage made manifest  
 - **Green (Slytherin):** Cunning `if` statements → ambition in logic  
 - **Blue (Ravenclaw):** Wise `import` and keywords → knowledge as foundation  
@@ -32,4 +36,5 @@ A VSCode theme inspired by the four houses of Hogwarts, balancing readability wi
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).
+
+This project is licensed under the [MIT License](./LICENSE)
