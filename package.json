@@ -1,7 +1,7 @@
 {
-  "name": "four-houses-theme",
-  "displayName": "Four Houses Theme",
-  "description": "A dark theme inspired by the four houses of Hogwarts.",
+  "name": "middle-path-dark",
+  "displayName": "Middle Path Theme",
+  "description": "A dark theme inspired by Night Owl, but higher contrast and more vibrant colors.",
   "version": "1.0.0",
   "publisher": "AmyJapanese",
   "engines": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AmyJapanese/Four-Houses-Theme"
+    "url": "https://github.com/AmyJapanese/Middle-Path-Dark"
   },
   "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "Four Houses Dark",
+        "label": "Middle Path Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/four-houses-color-theme.json"
+        "path": "./themes/middle-path-theme.json"
       }
     ]
   }

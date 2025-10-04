@@ -1,40 +1,22 @@
-# Four Houses Theme
+# Middle Path Dark
 
-> *Enjoy Magical Coding!* ✨
-
-**Bring the magic of Hogwarts into your code editor.**  
-A VSCode theme inspired by the four houses of Hogwarts, balancing readability with a touch of wizardry.  
+A Visual Studio Code theme designed to balance between low contrast and high contrast styles.  
+Inspired by the clarity and readability of **Night Owl**, but tuned to find the “middle path” for comfortable long-term coding sessions.
 
 ## Screenshot
 
-![Four Houses thumbnail](https://github.com/AmyJapanese/Four-Houses-theme/blob/main/assets/thumbnail.png?raw=true)
+![Middle Path thumbnail](https://github.com/AmyJapanese/Four-Houses-theme/blob/main/assets/thumbnail.png?raw=true)
 
->⚠️ Disclaimer
->This project is an **unofficial fan work** inspired by the Harry Potter universe.  
->It is not affiliated with or endorsed by J.K. Rowling, Warner Bros., or any official Harry Potter entity.  
 
----
+## Features
+- Balanced contrast: easier on the eyes compared to high-contrast themes, but more legible than low-contrast ones.  
+- Dark background with carefully chosen syntax highlighting for focus and readability.  
+- Inspired by the aesthetics of Night Owl, with unique adjustments for a smoother experience.
 
-## ✨ Features
+## Installation
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X` on macOS).  
+2. Search for **Middle Path Dark**.  
+3. Click **Install** and activate the theme from the menu.
 
-- Dark and elegant color palette for long coding sessions  
-- Syntax highlighting inspired by the four houses of Hogwarts  
-- Unified design across editor, menus, and command palette  
-- Subtle active line and selection styles that blend with the theme  
-
----
-
-## 🎨 Syntax Philosophy
-
-- **Red (Gryffindor):** Bold `class` declarations → courage made manifest  
-- **Green (Slytherin):** Cunning `if` statements → ambition in logic  
-- **Blue (Ravenclaw):** Wise `import` and keywords → knowledge as foundation  
-- **Yellow (Hufflepuff):** Loyal strings & numbers → steadfast values  
-- **Grayish tones (Professors):** Comments → the voices of your mentors  
-- **Error highlights:** *Avada Kedavra!* (because bugs can feel like curses)  
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](.\LICENSE)
+## License
+This project is licensed under the [MIT License](./LICENSE).

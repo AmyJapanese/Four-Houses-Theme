@@ -1,5 +1,5 @@
 {
-  "name": "Four Houses Dark",
+  "name": "Middle Path Dark",
   "type": "dark",
   "colors": {
     "editor.background": "#071E33",         
@@ -12,8 +12,8 @@
     "editorWhitespace.foreground": "#133746",
     "editorIndentGuide.background1": "#0F2B3A",
     "editor.findMatchBackground": "#2B556E",
-    "editorError.foreground": "#39FF14",    
-    "editorError.border": "#39FF14",
+    "editorError.foreground": "#ff1414",    
+    "editorError.border": "#ff1414",
     "editorWarning.foreground": "#FFB86B",
     "badge.background": "#18394A",
     "sideBar.background": "#072232",
@@ -23,7 +23,7 @@
     "tab.inactiveBackground": "#041827",
     "statusBar.foreground": "#E6EEF6",
     "activityBar.foreground": "#E6EEF6",
-    "activityBarBadge.background": "#D9482A",  // 赤アクセント（グリフィンドールとか）
+    "activityBarBadge.background": "#D9482A", 
     "sideBar.foreground": "#E6EEF6",
     "editor.lineHighlightBackground":"#002958",
     "editor.lineHighlightBorder": "#002958",
@@ -50,8 +50,8 @@
 "input.foreground": "#ffffff",
 "tab.activeForeground": "#ffffff",
 "editorGroup.border": "#274559",
-"editorGroupHeader.tabsBackground": "#041825",
-  },
+"editorGroupHeader.tabsBackground": "#041825"
+},
   "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment"],
@@ -61,7 +61,7 @@
       }
     },
     {
-      "name": "Gryffindor — Declarations / Keywords",
+      "name": "Declarations / Keywords",
       "scope": [
         "keyword",                  
         "storage.type",             
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "Slytherin — Variables / Conditions",
+      "name": "Variables / Conditions",
       "scope": [
         "variable",
         "variable.other.readwrite",
@@ -85,7 +85,7 @@
       }
     },
     {
-      "name": "Ravenclaw — Functions / Imports / Library",
+      "name": "Functions / Imports / Library",
       "scope": [
         "entity.name.function",
         "support.function",
@@ -99,7 +99,7 @@
       }
     },
     {
-      "name": "Hufflepuff — Strings & Numbers",
+      "name": "Strings & Numbers",
       "scope": [
         "string",
         "constant.string",
@@ -139,7 +139,7 @@
         "invalid.deprecated"
       ],
       "settings": {
-        "foreground": "#39FF14",  
+        "foreground": "#ff1414",  
         "fontStyle": "underline"
       }
     }
